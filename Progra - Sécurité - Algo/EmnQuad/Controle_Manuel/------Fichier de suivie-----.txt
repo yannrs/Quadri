@@ -1,0 +1,11 @@
+
+15/05/2014
+- Ajoute du filtre de Kalman pour le Pitch et le Roll
++ Toutes les librairies qui vont avec ;)
+- Modification de la librairie du gyroscope qui ne fonctionnait pas
+
+
+06/05/2014
+- Déplacement des consignes de vitesse dans un fonction à part entière (Dans quad et moteur)
+- Début d'implémentation d'un PID -> recherche des variables de consigne
+

@@ -1,0 +1,4 @@
+Utilisation :
+- Permet de controler le quadricoptère uniquement avec la télécommande.
+- PAS de stabilisation
+- PAS d'accès aux paramétres du systéme (x,y,z,theta,phi,psi)

@@ -1,0 +1,20 @@
+Branchements
+ A5 -> SCl
+ A4 -> SOA
+ 5V -> VCC_IN
+ GND -> GND
+
+Gyro : L3G4200D  -> OK
+ http://bildr.org/2011/06/l3g4200d-arduino/
+
+Compass : HMC5883L -> OK
+ http://bildr.org/2012/02/hmc5883l_arduino/
+
+Baro : BMP085 -> OK 
+ http://bildr.org/2011/06/bmp085-arduino/
+
+Accel : ADXL345 -> Testing (voir pb dans ADXL345_Example)
+ http://bildr.org/2011/03/adxl345-arduino/
+
+Tuto complet ^^
+http://blog.oscarliang.net/build-arduino-shield-quadcopter-arduino/

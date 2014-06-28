@@ -1,0 +1,5 @@
+Utilisation :
+- Permet de controler le quadricoptère uniquement avec la télécommande.
+- PAS de stabilisation
+- Accès aux paramétres du systéme (x_diff_diff,y_diff_diff,z_diff_diff,theta_diff,phi_diff,psi_diff)
+- Accès aux paramétres après filtrage avec l'algorithme de Kalman. (Theta, Phi) = Roll + Pitch

@@ -1,0 +1,25 @@
+Comment on met la carte dans le système d'attache ?
+
+Proposition en plus :
+ - On met le support sur la batterie.  
+un truc du genre:
+
+  |	carte     |
+  -----------------
+  |		  |
+  |		  |
+  |   batterie	  |
+  |		  |
+  ---		---
+
+Le rectangle vide au centre fait la taille de la petite carte. D'ailleurs dans
+les datasheet, c'est bien, y a la taille de tous les composants...
+Mais pas la carte ! Heureusement un petit Google Arduino GY80 et c'est réglé,
+mais bon ....
+
+Tu veux un support plus gros ? Peut-être on va essayer avec cette version déjà ...
+
+J'ai ma cartouche chauffante avec un connecteur qui a laché !
+Mais j'ai imprimé ta v2, plus qu'a voir le résultat..
+
+

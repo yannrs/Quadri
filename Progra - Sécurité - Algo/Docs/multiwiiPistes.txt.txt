@@ -1,0 +1,31 @@
+ça peut  nous sauver !
+http://www.multiwii.com/wiki/index.php?title=ESC_Calibration
+http://www.multiwii.com/forum/viewtopic.php?f=13&t=286
+
+
+
+
+
+
+http://www.rcgroups.com/forums/showthread.php?t=1340771
+
+...- If a ACC is present (Nunchuk or other I2C), you won't be able to arm the motors until you do a proper ACC calibration manually.
+If the calibration is not done or if the multi is too much inclinated, the status LED will slowly blink every 1s....
+
+..new optional arming procedure via an AUX switch
+this option is activated only if at least one checkbox is checked on the line "ARM"
+the motors won't arm if the copter is plugged while the tx switch is in the armed position.
+you must use the switch to disarm position then back to arm position in order to arm the motors...
+
+...Another 'feature' worth mentioning is that changes in the switch position are only
+acknowledged when the throttle stick is all the way down.
+This prevents accidentally arming the motors at mid or full throttle.
+One downside is that the motors will not disarm unless the throttle stick is all the way down....
+
+
+MAIN SOFT: new calibration procedure
+
+    The ACC calibration differs now from the gyro calibration.
+    gyro calibration: it's still done at each power on. It's also possible manually as before: min throttle+full pitch
+    backward+full yaw left.
+    acc calibration: motor disarmed, full throttle up, full pitch backward+full yaw left.
