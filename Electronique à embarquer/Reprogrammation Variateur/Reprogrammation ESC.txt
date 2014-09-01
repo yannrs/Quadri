@@ -1,0 +1,4 @@
+http://www.rcgroups.com/forums/showthread.php?t=1513678
+https://docs.google.com/spreadsheet/ccc?key=0AhR02IDNb7_MdEhfVjk3MkRHVzhKdjU1YzdBQkZZRlE#gid=0
+
+http://wiki.openpilot.org/display/Doc/Flashing+Instructions  <-- ICI

@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Design1 (PCB - Schematic and PCB Check Report).txt
+Report Written : Wednesday, June 25, 2014
+Design Path    : C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Design1.pcb
+Design Title   : 
+Created        : 23/06/2014 18:36:04
+Last Saved     : 25/06/2014 22:21:14
+Editing Time   : 1892 min
+Units          : mm (precision 1)
+
+
+Checking integrity of Schematic "C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Design1.sch" with PCB "C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Design1.pcb"
+====================================================================================================================================================================================
+
+
+End Of Report.

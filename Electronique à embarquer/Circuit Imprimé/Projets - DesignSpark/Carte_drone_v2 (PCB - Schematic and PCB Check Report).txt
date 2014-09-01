@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File    : C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Carte_drone_v2 (PCB - Schematic and PCB Check Report).txt
+Report Written : Thursday, July 03, 2014
+Design Path    : C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Carte_drone_v2.pcb
+Design Title   : 
+Created        : 03/07/2014 12:47:26
+Last Saved     : 03/07/2014 17:08:04
+Editing Time   : 267 min
+Units          : thou (precision 2)
+
+
+Checking integrity of Schematic "C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Carte_drone_v2.sch" with PCB "C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Carte_drone_v2.pcb"
+==================================================================================================================================================================================================
+
+
+End Of Report.

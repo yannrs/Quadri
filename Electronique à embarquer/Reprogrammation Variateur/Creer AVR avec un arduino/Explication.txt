@@ -1,0 +1,3 @@
+Pour reprogrammer le bootloader d'un arduino (uno, nano, mega,...) ou plus généralement d'une puce atmel (Atmega8,Atmega328,Atmega124,...), 
+on utilise ici un autre arduino, au lieu d'un lecteur usb AVR (ou il faut en acheter un...).
+

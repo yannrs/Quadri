@@ -1,0 +1,16 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File    : C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Design1 (PCB - Forward Design Changes Report).txt
+Report Written : Wednesday, June 25, 2014
+Design Path    : C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Design1.pcb
+Design Title   : 
+Created        : 23/06/2014 18:36:04
+Last Saved     : 25/06/2014 22:21:14
+Editing Time   : 1892 min
+Units          : mm (precision 1)
+
+The designs are the same, so no design changes to forward.
+
+
+End Of Report.

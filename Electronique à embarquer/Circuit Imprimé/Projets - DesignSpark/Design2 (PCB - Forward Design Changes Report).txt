@@ -1,0 +1,19 @@
+Forward Design Changes Report
+-----------------------------
+
+Report File    : C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Design2 (PCB - Forward Design Changes Report).txt
+Report Written : Thursday, June 26, 2014
+Design Path    : C:\Users\yann\Documents\DesignSpark PCB\Nouveau dossier\Design2.pcb
+Design Title   : 
+Created        : 26/06/2014 20:24:17
+Last Saved     : 26/06/2014 23:36:51
+Editing Time   : 111 min
+Units          : thou (precision 2)
+
+Disconnected pin "CONN2-6" from net "N0022".
+Disconnected pin "CONN1-11" from net "N0022".
+
+Deleted net "N0022".
+
+
+End Of Report.
